@@ -25,7 +25,7 @@
 3. Update company deatils 
 4. Able to apply jobs 
 
-## copany 
+## company 
 1. Copamy liting page will be create auto when regiter as employee 
 2. Company cover photo edit update 
 3. Copmany profuile photo edit update 
