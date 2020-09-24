@@ -33,3 +33,18 @@
 5. Edit jobs 
 6. jobs live/draft 
 7. and much more
+
+
+# screnshots
+
+![GitHub Logo](/screenshots/1.png)
+![GitHub Logo](/screenshots/2.png)
+![GitHub Logo](/screenshots/3.png)
+![GitHub Logo](/screenshots/4.png)
+![GitHub Logo](/screenshots/5.png)
+![GitHub Logo](/screenshots/6.png)
+![GitHub Logo](/screenshots/7.png)
+![GitHub Logo](/screenshots/8.png)
+![GitHub Logo](/screenshots/9.png)
+![GitHub Logo](/screenshots/10.png)
+![GitHub Logo](/screenshots/11.png)
